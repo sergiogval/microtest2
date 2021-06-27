@@ -1,6 +1,8 @@
-header {
-    position: fixed;
-    width: 100%;
-    top: 0;
-    left: 0;
-  }
+.nav-link a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
